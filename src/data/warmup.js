@@ -2,9 +2,9 @@ module.exports = [
   {
     title: 'Warmup-1',
     name: 'sleepIn',
-    question: `The parameter weekday is true if it is a weekday, and the parameter
-       vacation is true if we are on vacation. We sleep in if it is not a weekday or
-       we're on vacation. Return true if we sleep in.`,
+    question: `Parametr hafta kuni, agar u ish kuni bo'lsa, rost bo'ladi va parametr
+       ta'til to'g'ri, agar biz ta'tilda bo'lsak. Biz uxlaymiz, agar u ish kuni bo'lmasa yoki
+       biz ta'tildamiz. Agar biz uxlasak haqiqatga qayting.`,
     inputs: [
       '(true, true)',
       '(true, false)',
